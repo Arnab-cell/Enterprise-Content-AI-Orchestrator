@@ -339,7 +339,3 @@ ET_AI_Hackathon 2026 Participant
 
 ---
 
-# License
-
-MIT License
-
